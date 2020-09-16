@@ -1,0 +1,2 @@
+from instapy import Instapy
+
